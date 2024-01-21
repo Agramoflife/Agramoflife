@@ -5,6 +5,27 @@
 <h1 align="center">Hi 👋, I'm Deepu</h1>
 <h3 align="center">A passionate data analyst/data scientist from India</h3>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Professional Summary</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+  </style>
+</head>
+<body>
+  <p>I am a results-driven professional with expertise in Python programming, advanced data analysis, SQL, and Tableau. Known for developing innovative solutions in Python, I excel at extracting valuable insights from complex datasets and navigating databases with SQL. My proficiency in Tableau allows me to create impactful visualizations.</p>
+
+  <p>What sets me apart is not just technical prowess but a passion for translating data into strategic business decisions. My proven track record and commitment to excellence make me an ideal candidate for contributing significantly to your team's success. I look forward to the opportunity to discuss how my unique skill set can bring value to your organization.</p>
+</body>
+</html>
+
 - 🌱 I’m currently learning **Deep learning, LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Agramoflife?tab=repositories](https://github.com/Agramoflife?tab=repositories)
