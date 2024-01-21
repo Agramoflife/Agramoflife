@@ -21,6 +21,7 @@
 
 - ⚡ Fun fact **In the realm of quantum physics, particles called neutrinos might offer a glimpse into the peculiar world of time travel. Due to their elusive nature, neutrinos can potentially move backward or forward in time, adding an intriguing twist to the possibility of time travel on a subatomic scale.**
 
+<img src='https://institute.careerguide.com/wp-content/uploads/2020/10/76da282fad5a3e279c6b163688f5345b.gif' style="height: 400px;"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
