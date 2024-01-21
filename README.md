@@ -1,4 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)](https://github.com/Agramoflife)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Owa2rsDG6Rwv1IM_RdsL3A.gif)](https://github.com/Agramoflife)
 <h1 align="center">Hi 👋, I'm Deepu</h1>
 <h3 align="center">A passionate data analyst/data scientist from India</h3>
 
