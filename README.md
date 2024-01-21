@@ -8,7 +8,7 @@
 <body>
   <p>I am a results-driven professional with expertise in Python programming, advanced data analysis, SQL, and Tableau. Known for developing innovative solutions in Python, I excel at extracting valuable insights from complex datasets and navigating databases with SQL. My proficiency in Tableau allows me to create impactful visualizations.</p>
 
-  <p>What sets me apart is not just technical prowess but a passion for translating data into strategic business decisions. My proven track record and commitment to excellence make me an ideal candidate for contributing significantly to your team's success. I look forward to the opportunity to discuss how my unique skill set can bring value to your organization.</p>
+  <p>What sets me apart is not just technical prowess but a passion for translating data into strategic business decisions.</p>
 </body>
 
 - 🌱 I’m currently learning **Deep learning, LLMs**
