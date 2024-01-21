@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)](https://github.com/Agramoflife)
+<!--[![MasterHead](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)](https://github.com/Agramoflife) -->
 [![MasterHead](https://github.com/Agramoflife/Agramoflife/blob/main/f88acab7ffd127b4465659500aa0538f%20(1).gif)](https://github.com/Agramoflife)
 
 
