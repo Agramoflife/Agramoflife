@@ -3,10 +3,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Deepu</h1>
-<h3 align="center">A passionate data analyst/data scientist from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <body>
-  <p>I am a results-driven professional with expertise in Python programming, advanced data analysis, SQL, and Tableau. Known for developing innovative solutions in Python, I excel at extracting valuable insights from complex datasets and navigating databases with SQL. My proficiency in Tableau allows me to create impactful visualizations.</p>
+  <p>I am a Data Scientist at ElixirAI driving healthcare analytics through robust, end-to-end data solutions. Built patient survival prediction models, RAG-based LLM applications, and automated ETL workflows using Apache Airflow and Docker. Hands-on experience with Django, CI/CD pipelines, and deploying scalable solutions on AWS (EC2, RDS). Led migration and analysis of large-scale oncology datasets (surgery, chemotherapy, biopsy). Proficient in Python, SQL, Power BI, and modern data engineering tools.</p>
 
   <p>What sets me apart is not just technical prowess but a passion for translating data into strategic business decisions.</p>
 </body>
